@@ -1,1 +1,1 @@
-# To-Do List using React 
+# To-Do List web app using React js
